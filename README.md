@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaron Martinez Cuevas</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate iOS developer from Mexico</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronceras&label=Profile%20views&color=0e75b6&style=flat" alt="ronceras" /> </p>
 
-- 🔭 I’m currently working on **Luxoft**
+- 🔭 I’m currently working on **Apex Systems**
 
 - 🌱 I’m currently learning **Swift, Python and Kotlin**
 
