@@ -16,7 +16,7 @@ I'm an iOS developer at [Wizeline](https://www.wizeline.com), building features 
 - [roncuevas/LocalJSON](https://github.com/roncuevas/LocalJSON) — Lightweight Swift package for reading/writing JSON files, type-safe with Codable
 - [roncuevas/WebViewAMC](https://github.com/roncuevas/WebViewAMC) — SwiftUI wrapper for WebKit navigator, scraping and website interaction
 - [roncuevas/ios-mv-skill](https://github.com/roncuevas/ios-mv-skill) — Claude Code skills for iOS development with modular SPM architecture
-- [roncuevas/SplashScreenAMC](https://github.com/roncuevas/SplashScreenAMC) — SplashScreen with Lottie animations for SwiftUI
+- [roncuevas/Captchas](https://github.com/roncuevas/Captchas) — OCR dataset of 88K+ CAPTCHA images with a CRNN+CTC model exportable to CoreML
 
 ### 🌱 Currently learning
 
